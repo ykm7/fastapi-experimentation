@@ -1,0 +1,2 @@
+# pip-compile requirements.in
+fastapi[standard]==0.116.1
