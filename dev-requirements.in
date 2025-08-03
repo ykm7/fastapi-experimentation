@@ -1,2 +1,4 @@
 # pip-compile dev-requirements.in
-pip-tools
+pip-tools==7.5.0
+mypy
+pydantic
