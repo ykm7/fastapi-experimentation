@@ -2,3 +2,10 @@
 pip-tools==7.5.0
 mypy
 pydantic
+httpx
+pytest
+# pytest-anyio
+
+# https://fastapi.tiangolo.com/advanced/async-tests/
+# doesn't have anything about this but my async tests constantly complained about the lack of this
+trio
